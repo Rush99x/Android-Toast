@@ -1,0 +1,2 @@
+# Android-Toast
+ The Simple Android Toast App is a basic Android application that demonstrates the usage of Toast messages to provide short-lived notifications to the user. Toast messages are lightweight and non-intrusive pop-up notifications that appear at the bottom of the screen and automatically disappear after a short duration. This project serves as a beginner-friendly example for developers learning Android app development and introduces them to the concept of displaying Toast messages.
